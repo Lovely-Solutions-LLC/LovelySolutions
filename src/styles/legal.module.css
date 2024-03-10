@@ -1,0 +1,41 @@
+.main {
+  padding-block: 8em;
+  position: relative;
+  padding-inline: var(--inline-padding);
+  min-height: fit-content;
+}
+
+.title {
+  font-size: var(--title-size);
+}
+
+.text-container {
+  padding-top: 2em;
+}
+
+.text {
+  text-indent: 4ch;
+  font-size: var(--body-size);
+  line-height: calc(var(--body-size) * 3 / 2);
+}
+
+@media (width <= 768px) {
+  .text {
+    padding-inline: 4em;
+  }
+
+  .columns {
+    grid-template-columns: 1fr;
+    row-gap: 4em;
+  }
+}
+
+@media (width <= 425px) {
+  .text {
+    padding-inline: 0;
+  }
+
+  .columns {
+    row-gap: 2em;
+  }
+}
