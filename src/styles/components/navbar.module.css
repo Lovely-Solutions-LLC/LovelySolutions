@@ -6,11 +6,7 @@
 }
 
 .closed {
-  background: linear-gradient(
-    180deg,
-    var(--background-secondary),
-    transparent
-  );
+  background: linear-gradient(180deg, var(--background-secondary), transparent);
 }
 
 .closed .left {
@@ -47,20 +43,8 @@
   transition: 0.3s ease-out;
 }
 
-.active {
-  color: var(--accent);
-  font-weight: 600;
-}
-
 .logo {
   height: 3em;
-}
-
-.resume {
-  color: var(--accent);
-  border: thin solid var(--accent);
-  border-radius: 5px;
-  padding: 0.25em 0.5em;
 }
 
 @media (width <= 425px) {
