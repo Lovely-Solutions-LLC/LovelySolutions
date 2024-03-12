@@ -10,55 +10,38 @@ export default function Apps() {
           <Reveal from="bottom">
             <img
               className={styles["img-left"]}
-              src="/projects/wordCatchingJournalMobile.png"
-              alt=""
-            />
-          </Reveal>
-          <Reveal from="right">
-            <img
-              className={styles["img-right"]}
-              src="/projects/wordCatchingJournal.png"
+              src="/app_card_image.png"
               alt=""
             />
           </Reveal>
         </div>
         <Reveal from="bottom">
           <div className={styles["text-container"]}>
-            <h2>Update Templates</h2>
-            <ul className={styles.technologies}>
-              <li>Lorem</li>
-              <li>Ipsum</li>
-              <li>Dolor</li>
-              <li>Sit</li>
-            </ul>
-            <h3>Lorem ipsum dolor sit amet.</h3>
+            <div className={styles["title-container"]}>
+              <img className={styles.logo} src="/app_logo.png" alt="" />
+              <h2>Update Templates</h2>
+            </div>
+            <h3>Create and store templates for frequently made updates</h3>
             <p className={styles.text}>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-              facere magnam vel debitis molestias accusantium ab nemo soluta,
-              sequi voluptatibus?
+              Create and store templates for frequently made updates in a
+              close-by item view! Users can have their own templates, and also
+              share with a collection available to all board members. Templates
+              are stored with a "Copy to Clipboard" button right in view, which
+              makes for easy copy and pasting of long, redundant updates.
+              Instead of typing them out, copy them over from our item view into
+              the updates section instantly! Questions?{" "}
+              <a
+                className={styles["demo-link"]}
+                href="https://calendly.com/lovelysolutions/consultation"
+                target="_blank"
+              >
+                Book a demo
+              </a>
             </p>
             <div className={styles.links}>
-              <a
-                className={styles.link}
-                href=""
-                target="_blank"
-              >
+              <a className={styles.link} href="" target="_blank">
                 Install
               </a>
-              {/* <a
-                className={styles.link}
-                href="https://github.com/mlinder10/WordCatchingJournal"
-                target="_blank"
-              >
-                Source (web)
-              </a>
-              <a
-                className={styles.link}
-                href="https://github.com/mlinder10/WordCatchingJournalSwift"
-                target="_blank"
-              >
-                Source (iOS)
-              </a> */}
             </div>
           </div>
         </Reveal>

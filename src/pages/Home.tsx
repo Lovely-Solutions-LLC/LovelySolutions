@@ -41,13 +41,13 @@ export default function Home() {
       <Reveal duration={0.7}>
         <div className={styles["content-container"]}>
           <p className={styles.title}>Lovely Solutions</p>
-          <p className={styles.subtitle}>Some Text</p>
+          <p className={styles.subtitle}>Simple. Safe. Lovely</p>
           <div className={styles.links}>
-            <a href="#contact" className={styles.contact}>
-              Contact Us
-            </a>
-            <a href="#projects" className={styles.projects}>
+            <a href="#apps" className={styles.contact}>
               View Apps
+            </a>
+            <a href="#contact" className={styles.projects}>
+              Contact Us
             </a>
           </div>
         </div>
