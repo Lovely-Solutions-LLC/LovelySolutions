@@ -39,8 +39,12 @@ export default function Apps() {
               </a>
             </p>
             <div className={styles.links}>
-              <a className={styles.link} href="" target="_blank">
-                Install
+              <a href="https://auth.monday.com/oauth2/authorize?client_id=fcd66ce926a909a32e80ba5346fd5b22&response_type=install">
+                <img
+                  alt="Add to monday.com"
+                  height="42"
+                  src="https://dapulse-res.cloudinary.com/image/upload/f_auto,q_auto/remote_mondaycom_static/uploads/Tal/4b5d9548-0598-436e-a5b6-9bc5f29ee1d9_Group12441.png"
+                />
               </a>
             </div>
           </div>
