@@ -3,7 +3,8 @@
   padding-block: 8em;
   padding-inline: var(--inline-padding);
   position: relative;
-  display: grid;
+  display: flex;
+  justify-content: center;
 }
 
 .main::after {
@@ -12,6 +13,7 @@
   left: 0;
   right: 0;
   bottom: 100%;
+  translate: 0 50%;
   height: 8em;
   background: linear-gradient(
     180deg,

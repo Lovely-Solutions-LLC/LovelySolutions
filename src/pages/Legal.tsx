@@ -411,6 +411,163 @@ export default function Legal() {
           to this Policy, please contact us at contact@lovelysolutions.co.
         </p>
         <br />
+        <p>Terms of Service/EULA
+
+Section 1 - Definitions:
+
+In this agreement:
+
+"Accessible Code" refers to source code that is provided without protection and intended by Lovely Solutions, LLC to be accessible for use by you.
+
+"Affiliate(s)" means any entity directly or indirectly connected to Lovely Solutions, LLC through ownership or control.
+
+"Authorized Reseller" refers to third parties licensed or authorized by Lovely Solutions, LLC to distribute its Products.
+
+"Authorized User" pertains to individuals designated by you to access and use the Products as per the Scope of Use and for whom you have paid the required Fees. This also includes any Secondary Users permitted to use the Products, subject to Section 3.
+
+"Cloud Products" collectively denote Cloud Service Subscriptions provided by Lovely Solutions, LLC.
+
+"Cloud Service(s)" refers to any software functionality made accessible by Lovely Solutions, LLC in a hosted or cloud-based environment, as specified in an Order Form.
+
+"Documentation" encompasses the published documentation, usage guides, and policies relevant to the Products, as updated periodically and available at the Lovely Solutions website and within the Products.
+
+"Feedback" pertains to comments, questions, ideas, suggestions, or other feedback relating to the Products submitted by you to Lovely Solutions, LLC.
+
+"Fees" comprise all applicable payments specified in an Order Form for the Products, including Maintenance and any additional fees for exceeding specified limits or capacities.
+
+"License Term" refers to the duration for which you are authorized to license the Software, as outlined in an Order.
+
+"Maintenance" includes Product Updates, required Partner Marketplace platform compatibility updates, and online support portal access for technical issues related to the Products, provided inseparably with the Cloud Products.
+
+"Partner Marketplace" indicates the third-party online marketplace offering downloadable, accessible, and/or cloud-based application Products.
+
+"Media" refers to all non-code files contained within the Products, including images, icons, text files, PDFs, and other static content.
+
+"No-Charge Products" represent any Products explicitly specified as no-charge, free, for trial use, for free non-profit use, or Beta Versions in an Order Form.
+
+"Order Form" or "Order" means Lovely Solutions' applicable online order page(s) or invoice provided to you, whether directly from Lovely Solutions, LLC, an Authorized Reseller, or Partner Marketplace.
+
+"Products" encompass Software, Cloud Products, along with related Documentation and Maintenance.
+
+"Product Updates" denote bug fixes, patches, releases, upgrades, enhancements, or modifications for a Product made available by Lovely Solutions, LLC as part of Maintenance.
+
+"Scope of Use" refers to your authorized scope of use or access to the Products, which may include limitations on installations, users, data sets, storage, licenses, or other utilization restrictions.
+
+"Software" includes commercially available software made accessible for download or access by Lovely Solutions, LLC, whether licensed or provided at no charge as specified in an Order Form, including Accessible Code, Media, and Documentation.
+
+"Subscription Term" pertains to your permitted subscription period for a Cloud Product and Maintenance, as specified in the applicable Order Form.
+
+"Term" encompasses the License Term, Subscription Term, and/or Maintenance Term as applicable and specified in the Order Form.
+
+Section 2 - Account Registration:
+
+To place Orders or access the Products, you may need to register for a Lovely Solutions account or Partner Marketplace account(s). All registration information must be accurate, current, and complete. You are responsible for maintaining the confidentiality of your account details and for all activities occurring through your accounts.
+
+Section 3 - Orders, Delivery & Authorized Users:
+
+(a) Your Order Form specifies your Scope of Use for the Term and may include renewal terms or purchases to increase or upgrade your Scope of Use. You may increase the number of Authorized Users by placing a new Order Form or directly through the Product.
+
+(b) License keys specified in the Order Form are delivered to your account upon receipt of payment. You are responsible for confirming payment and processing of your Order Form. All deliveries are electronic, and you are responsible for product installation.
+
+(c) Only Authorized Users may access and use the Products. You are responsible for ensuring compliance with this EULA by all Authorized Users, including any Secondary Users permitted to use the Products.
+
+(d) Secondary Users may be granted limited rights to use the Products solely to interact with offerings enabled by the Products. You are responsible for ensuring compliance with the terms of this EULA by Secondary Users.
+
+(e) You may designate Administrators with control over your use of Cloud Products. Administrators are responsible for certain actions within the Products, and you are accountable for their activities.
+
+Section 4 - Grant of License, Grant to Access:
+
+(a) Lovely Solutions, LLC grants you rights to access and use the Products as per the terms of this EULA, the Order Form, and Documentation.
+
+(b) For Cloud Services, Lovely Solutions grants you a non-exclusive license during the Subscription Term to access and use the Cloud Service within the Scope of Use. No-Charge Products are subject to limited term licenses as specified.
+
+Section 5 - Customer Responsibilities:
+
+(a) You are responsible for ensuring that only Authorized Users access or use the Products in compliance with this EULA, Documentation, Acceptable Use Policy, and applicable laws.
+
+(b) You agree not to modify, reverse engineer, distribute, or use the Products except as expressly permitted by Lovely Solutions, LLC.
+
+Section 6 - Third Party Products:
+
+(a) Your use of third-party products or services in connection with the Products is subject to separate agreements between you and the third-party providers. Lovely Solutions, LLC disclaims any liability for third-party products or services.
+
+(b) Some Products may include third-party open-source software subject to their own license terms.
+
+Section 7 - Support:
+
+You may request support via email or through the Lovely Solutions website or marketplace.
+
+Section 8 - Fees and Taxes:
+
+You must pay all applicable Fees within the specified period. Lovely Solutions, LLC is not responsible for any Taxes unless required by law.
+
+Section 9 - Reservation of Right and Ownership:
+
+The Products are provided on a limited license basis, and no ownership rights are transferred to you. Lovely Solutions, LLC retains all rights, title, and interest in the Products, including any Feedback provided by you.
+
+Section 10 -Data Security & Privacy
+
+We at Lovely Solutions LLC prioritize privacy and adhere to legal and industry standards to safeguard your information. We employ reasonable measures to secure private data from unauthorized access, disclosure, and alteration. Your information won't be sold or shared with third parties, except as authorized by you or as outlined in our Privacy Policy. You retain ownership of any data you upload or transmit to us. By using our products, you grant Lovely Solutions LLC the right to utilize your data solely for providing the agreed-upon services.
+
+Section 11 - Confidentiality
+Both parties agree to treat any confidential information shared during our business relationship with the utmost confidentiality. This includes code, business strategies, and technical information. Exceptions to confidentiality include information already in possession, publicly available, obtained from a third party without confidentiality obligations, or independently developed.
+
+Section 12 - Notification of Breach
+Should you discover any breach of our agreement, you must promptly notify Lovely Solutions LLC by sending a detailed report to contact@lovelysolutions.co. In the event of a breach involving unauthorized distribution or use of our products, additional fees may be applied.
+
+I'll continue rewriting the remaining sections in subsequent messages.
+
+Section 13 - Term, Renewal and Termination
+(a) The Order Form for our products will specify the applicable Term. The Subscription Term or Maintenance Term will commence on the Order Form date (unless stated otherwise) and expire on the indicated expiration date.
+(b) Subscription will automatically renew at the end of the Subscription Term unless either Lovely Solutions LLC or you provide written notice of non-renewal at least thirty (30) days prior to the end of the then-current Subscription Term. If you cancel your subscription, your license to use the product will terminate at the end of the Term, and no credits or refunds will be issued.
+(c) You may terminate your Order of a Product under this EULA in the event of a material breach by Lovely Solutions LLC that remains uncured after thirty (30) days of written notice. Your license to access and use the Products will automatically terminate if you fail to comply with the terms herein or upon the expiration date set forth in any Order Form. Upon termination, you must remove all Software, destroy any copies, and cease access to any Cloud Product. Outstanding amounts for licensed products remain payable even upon termination. All payments are non-refundable and non-creditable.
+(d) Upon termination, Lovely Solutions LLC may delete all Your Data unless legally prohibited, so it is advisable to export Your Data during the Subscription Term. (e) Certain sections and obligations of this EULA will survive termination or expiration.
+
+Section 14 - License Certifications
+Not more than once in any twelve (12) month period, or at any time if Lovely Solutions LLC reasonably suspects that:
+(a) Our products have been distributed or obtained without a valid license;
+(b) Third-Party Software is being accessed or used independently of our products without express permission;
+(c) There's a breach of this EULA. Lovely Solutions LLC may request, and you agree to provide within thirty (30) days, a detailed report of product usage and compliance. If the report indicates excess use, you must purchase additional licenses and associated fees within thirty (30) days. Failure to comply may result in termination of the license. Lovely Solutions LLC reserves all rights and remedies for any breach.
+
+Section 15 - Publicity Rights
+You grant Lovely Solutions LLC the right to use your name, company name, logo, and provided reviews for promotional activities, including advertising, media relations, and corporate presentations. You can revoke this right at any time for all products by contacting us at contact@lovelysolutions.co. We will respond to your request within thirty (30) days or provide an explanation if more time is needed (up to 90 days).
+
+Section 16 - Product Service Analyses
+Lovely Solutions LLC may compile statistical and other information related to product performance and use. We may use aggregated data for security, operations management, statistical analyses, and research purposes. No personally identifiable information will be included in these analyses, and Lovely Solutions LLC retains all intellectual property rights.
+
+Section 17 - Exclusion of Warranties
+To the maximum extent permitted by applicable law, Lovely Solutions LLC provides its products "AS IS" and with all faults and defects, without any warranty. We expressly disclaim all warranties, whether express, implied, statutory, or otherwise, including but not limited to warranties of merchantability, fitness for a particular purpose, title, and non-infringement. We do not warrant that our products will meet your requirements, be compatible with other software or services, or be error-free. Lovely Solutions LLC shall not be liable for delays, interruptions, or other problems inherent in electronic communications or systems outside our reasonable control. Your statutory rights may apply, but any statutory warranties are limited to the shortest period permitted by law.
+
+Section 18 - Indemnification
+You agree to defend, settle, and hold Lovely Solutions LLC harmless from any losses, liabilities, costs, or expenses arising from third-party claims related to Your Data or your use of the products in breach of this EULA. In conjunction with this indemnification, Lovely Solutions LLC agrees to promptly notify you of any such claim, not enter into any settlement without your consent, allow you to control the defense, and provide reasonable assistance. You agree to pay all damages and costs awarded against Lovely Solutions LLC attributable to such claims.
+
+Section 19 - Limitation of Liability
+Except for indemnification obligations or breach of specific sections, neither party shall be liable for any consequential, indirect, special, punitive, or other damages related to the products, including but not limited to loss of income, profits, or data. Lovely Solutions LLC's aggregate liability for any claims arising from or related to this EULA or product use shall not exceed the fees paid by you for the current term. This limitation of liability provides your sole remedy for any breach of this EULA.
+
+Section 20 - Governing Law, Venue and Notices
+This EULA shall be governed by and construed in accordance with the laws of the State of Israel, without regard to its conflict of laws principles. The parties agree to submit to the exclusive jurisdiction of the courts in Tel Aviv – Jaffe, Israel, for any disputes arising from or related to this EULA. Lovely Solutions LLC reserves the right to seek injunctive relief or other legal remedies in any jurisdiction at its discretion.
+
+Section 21 - Severability
+If any term of this EULA is found to be unenforceable or contrary to law, it shall be modified to the minimum extent necessary to make it enforceable, and the remaining provisions shall remain in full force and effect.
+
+Section 22 - No Waiver
+No waiver of any right under this EULA shall be deemed effective unless it is made in writing and signed by a duly authorized representative of the party against whom the waiver is asserted. No waiver of any past or present right arising from any breach or failure to perform shall be deemed a waiver of any future rights.
+
+Section 23 - Assignment
+You may not assign or transfer this EULA or any rights and obligations under it without the prior written consent of Lovely Solutions LLC. Any unauthorized assignment or transfer shall be void. However, you may assign this EULA in connection with a merger, acquisition, or sale of assets, provided you notify Lovely Solutions LLC within ninety (90) days and the assignee agrees to be bound by the terms herein. Lovely Solutions LLC may assign its rights and obligations without your consent.
+
+Section 24 - Revision to EULA
+Lovely Solutions LLC reserves the right to update, modify, or amend this EULA or Product-Specific Terms from time to time. If a revision significantly impacts your rights, we will make reasonable efforts to notify you through email, blog posts, website updates, or within the product documentation. If you object to any revisions, your sole remedy is to cease using the products at the end of the current term. By continuing to use the products after revisions become effective, you accept the updated terms. Any Order Form is subject to the version of the EULA in effect at the time of the order.
+
+Section 25 - Entire Agreement
+This EULA constitutes the entire agreement between the parties regarding its subject matter, superseding all prior agreements, proposals, and communications. Both parties acknowledge that they have not been induced to enter into this EULA by any representations or promises not specifically stated herein. In case of a conflict between this EULA and any open source licenses, the terms of the open source licenses shall control for the specific terms in conflict.
+
+Section 26 - Rules of Interpretation
+In interpreting this EULA, the following rules apply:
+(a) "Person" includes natural persons, corporations, or unincorporated bodies.
+(b) References to a party include its personal representatives, successors, or permitted assignees.
+(c) Phrases introduced by "including" or "include" shall be construed as illustrative and not limiting.
+(d) "Writing" or "written" includes faxes, emails, communications via websites, and comparable means of communication.</p>
       </div>
     </section>
   );

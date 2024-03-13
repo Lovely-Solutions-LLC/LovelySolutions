@@ -23,7 +23,7 @@ export default function Contact() {
     try {
       await emailjs.send(
         "service_e6jvzcu",
-        "template_soeiwjl",
+        "template_r4ysltf",
         templateVals,
         "0GjINiaEuMIa7iOfQ"
       );
