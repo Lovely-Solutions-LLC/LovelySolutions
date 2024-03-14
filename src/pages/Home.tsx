@@ -41,7 +41,7 @@ export default function Home() {
       <Reveal duration={0.7}>
         <div className={styles["content-container"]}>
           <p className={styles.title}>Lovely Solutions</p>
-          <p className={styles.subtitle}>Simple. Safe. Lovely</p>
+          <p className={styles.subtitle}>Simple. Safe. Lovely.</p>
           <div className={styles.links}>
             <a href="#apps" className={styles.contact}>
               View Apps
