@@ -1,12 +1,8 @@
 import { useEffect, useState } from "react";
 import styles from "../styles/components/navbar.module.css";
+import { Link } from "react-router-dom";
 
-type NavbarProps = {
-  openLegal: () => void;
-  closeLegal: () => void;
-};
-
-export default function Navbar({ openLegal, closeLegal }: NavbarProps) {
+export default function Navbar() {
   const [isOpen, setIsOpen] = useState(true);
 
   useEffect(() => {
@@ -27,29 +23,23 @@ export default function Navbar({ openLegal, closeLegal }: NavbarProps) {
         <ul className={styles.ul}>
           <div className={styles.left}>
             <li>
-              <a href="#" onClick={closeLegal}>
+              <a href="/#">
                 <img className={styles.logo} src="/logo_1.png" alt="" />
               </a>
             </li>
           </div>
           <div className={styles.right}>
             <li>
-              <a href="#" onClick={closeLegal}>
-                Home
-              </a>
+              <a href="/#">Home</a>
             </li>
             <li>
-              <a href="#apps" onClick={closeLegal}>
-                Apps
-              </a>
+              <a href="/#apps">Apps</a>
             </li>
             <li>
-              <a href="#" onClick={openLegal}>Legal</a>
+              <Link to="/legal">Legal</Link>
             </li>
             <li>
-              <a href="#contact" onClick={closeLegal}>
-                Contact
-              </a>
+              <a href="/#contact">Contact</a>
             </li>
           </div>
         </ul>
