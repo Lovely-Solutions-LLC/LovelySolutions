@@ -8,7 +8,7 @@ export default function Legal() {
       <section className={styles.main} id="legal">
         <h1 className={styles.title}>Legal</h1>
         <div className={styles["text-container"]}>
-          <p>Privacy Policy</p>
+          <h2>Privacy Policy</h2>
           <br />
           <p>Last Updated: 3/12/2024</p>
           <br />
@@ -424,7 +424,7 @@ export default function Legal() {
             to this Policy, please contact us at contact@lovelysolutions.co.
           </p>
           <br />
-          <p>Terms of Service/EULA</p>
+          <h2>Terms of Service/EULA</h2>
           <br />
           <p>Section 1 - Definitions:</p>
           <br />
