@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import styles from "../styles/components/navbar.module.css";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(true);
+  const path = useLocation().pathname;
 
   useEffect(() => {
     function checkScroll() {
@@ -32,14 +33,28 @@ export default function Navbar() {
             <li>
               <a href="/#">Home</a>
             </li>
-            <li>
-              <a href="/#apps">Apps</a>
-            </li>
+            {!path.includes("/legal") && (
+              <>
+                <li>
+                  <a href="/#apps">Apps</a>
+                </li>
+                <li>
+                  <a href="/#contact">Contact</a>
+                </li>
+              </>
+            )}
+            {path.includes("/legal") && (
+              <>
+                <li>
+                  <a href="/legal/#pp">Privacy Policy</a>
+                </li>
+                <li>
+                  <a href="/legal/#tos">Terms of Service</a>
+                </li>
+              </>
+            )}
             <li>
               <Link to="/legal">Legal</Link>
-            </li>
-            <li>
-              <a href="/#contact">Contact</a>
             </li>
           </div>
         </ul>
