@@ -11,17 +11,13 @@ export default function Apps() {
       <div className={`${styles.project}`}>
         <div className={styles.imgs}>
           <Reveal from="bottom">
-            <img
-              className={styles["img-left"]}
-              src="/app_card_image.png"
-              alt=""
-            />
+            <img className={styles["img-left"]} src="/ut_card.png" alt="" />
           </Reveal>
         </div>
         <Reveal from="bottom">
           <div className={styles["text-container"]}>
             <div className={styles["title-container"]}>
-              <img className={styles.logo} src="/app_logo.png" alt="" />
+              <img className={styles.logo} src="/ut_logo.png" alt="" />
               <h2>Update Templates</h2>
             </div>
             <h3>Create and store templates for frequently made updates</h3>
@@ -32,7 +28,7 @@ export default function Apps() {
               are stored with a "Copy to Clipboard" button right in view, which
               makes for easy copy and pasting of long, redundant updates.
               Instead of typing them out, copy them over from our item view into
-              the updates section instantly! Questions?
+              the updates section instantly! Questions?{" "}
               <a
                 className={styles["demo-link"]}
                 href="https://calendly.com/lovelysolutions/consultation"
@@ -56,25 +52,22 @@ export default function Apps() {
 
       {/* SLD */}
 
-      {/* <div className={`${styles.project}`}>
-        <div className={styles.imgs}>
-          <Reveal from="bottom">
-            <img
-              className={styles["img-left"]}
-              src="/app_card_image.png"
-              alt=""
-            />
-          </Reveal>
-        </div>
+      <div className={`${styles.project}`}>
         <Reveal from="bottom">
           <div className={styles["text-container"]}>
             <div className={styles["title-container"]}>
-              <img className={styles.logo} src="/app_logo.png" alt="" />
+              <img className={styles.logo} src="/sld_logo.png" alt="" />
               <h2>Status Label Directory</h2>
             </div>
-            <h3>Short Description</h3>
-            <p className={styles.text}>
-              Long Description
+            <h3>Easily document processes & create SOPs for status labels</h3>
+            <p className={styles.text} style={{ paddingRight: "2rem" }}>
+              Status Label Directory (SLD) is a powerful tool designed to
+              streamline standard operating procedure (SOP) documentation and
+              enhance workflow management within monday.com. Tailored for teams
+              seeking to optimize their processes and improve productivity, SLD
+              offers a centralized hub where users can organize, document, and
+              track SOPs associated with status labels in their monday.com
+              boards. Questions?{" "}
               <a
                 className={styles["demo-link"]}
                 href="https://calendly.com/lovelysolutions/consultation"
@@ -94,7 +87,12 @@ export default function Apps() {
             </div>
           </div>
         </Reveal>
-      </div> */}
+        <div className={styles.imgs}>
+          <Reveal from="bottom">
+            <img className={styles["img-left"]} src="/sld_card.png" alt="" />
+          </Reveal>
+        </div>
+      </div>
     </section>
   );
 }
