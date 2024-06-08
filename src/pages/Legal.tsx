@@ -871,6 +871,59 @@ export default function Legal() {
             "written" includes faxes, emails, communications via websites, and
             comparable means of communication.
           </p>
+          <h3>Third Party Requests</h3>
+          <p>
+            At Lovely Solutions, LLC., we prioritize your privacy and strive to
+            be transparent about how your information is handled. As part of
+            providing core functionality and enhancing the user experience of
+            our applications, we may send third-party requests to external
+            platforms. These requests are necessary for the following purposes:
+          </p>
+          <ol>
+            <li>
+              Core Functionality: To ensure that our applications operate
+              seamlessly and provide the essential features you rely on.
+            </li>
+            <li>
+              Analytics: To gather and analyze data that helps us improve our
+              services, understand user behavior, and make informed decisions
+              about product development.
+            </li>
+          </ol>
+          <h3>Current Third-Party Integration</h3>
+          <p>
+            As of now, our applications only send third-party requests to
+            Facebook.com. These interactions may include, but are not limited
+            to:
+          </p>
+          <ul>
+            <li>
+              Authentication: Verifying user credentials and facilitating secure
+              logins.
+            </li>
+            <li>
+              Data Sharing: Exchanging information necessary for the operation
+              of integrated features.
+            </li>
+            <li>
+              Analytics: Collecting data to help us understand usage patterns
+              and improve our services.
+            </li>
+          </ul>
+          <p>
+            We ensure that any data shared with third-party platforms is handled
+            securely and in accordance with their privacy policies. We do not
+            share your personal information with these third parties for
+            marketing or any purposes beyond those stated above.
+          </p>
+          <h3>Future Third-Party Integrations</h3>
+          <p>
+            Should there be any future integrations with additional third-party
+            platforms, we will update this policy accordingly and notify you of
+            the changes. We remain committed to ensuring that any third-party
+            requests are made with your privacy in mind and solely for the
+            purposes outlined.
+          </p>
         </div>
       </section>
     </main>

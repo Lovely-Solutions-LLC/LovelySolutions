@@ -19,13 +19,11 @@
 
 .title {
   font-size: var(--title-size-lg);
-  font-family: Salina;
 }
 
 .subtitle {
   font-size: var(--title-size);
   color: var(--secondary);
-  font-family: Salina;
 }
 
 .links {
