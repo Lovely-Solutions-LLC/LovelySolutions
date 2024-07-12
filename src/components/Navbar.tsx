@@ -25,7 +25,11 @@ export default function Navbar() {
           <div className={styles.left}>
             <li>
               <a href="/#">
-                <img className={styles.logo} src="/logo_1.png" alt="" />
+                <img
+                  className={styles.logo}
+                  src="src/assets/logo_1.png"
+                  alt=""
+                />
               </a>
             </li>
           </div>

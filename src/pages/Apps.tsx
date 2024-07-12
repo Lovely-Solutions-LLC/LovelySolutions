@@ -12,7 +12,11 @@ export default function Apps() {
         <Reveal from="bottom">
           <div className={styles["text-container"]}>
             <div className={styles["title-container"]}>
-              <img className={styles.logo} src="/sld_logo.png" alt="" />
+              <img
+                className={styles.logo}
+                src="src/assets/sld_logo.png"
+                alt=""
+              />
               <h2>Status Label Directory</h2>
             </div>
             <h3>Easily document processes & create SOPs for status labels</h3>
@@ -45,7 +49,11 @@ export default function Apps() {
         </Reveal>
         <div className={styles.imgs}>
           <Reveal from="bottom">
-            <img className={styles["img-left"]} src="/sld_card.png" alt="" />
+            <img
+              className={styles["img-left"]}
+              src="src/assets/sld_card.png"
+              alt=""
+            />
           </Reveal>
         </div>
       </div>
@@ -55,13 +63,21 @@ export default function Apps() {
       <div className={`${styles.project}`}>
         <div className={styles.imgs}>
           <Reveal from="bottom">
-            <img className={styles["img-left"]} src="/ut_card.png" alt="" />
+            <img
+              className={styles["img-left"]}
+              src="src/assets/ut_card.png"
+              alt=""
+            />
           </Reveal>
         </div>
         <Reveal from="bottom">
           <div className={styles["text-container"]}>
             <div className={styles["title-container"]}>
-              <img className={styles.logo} src="/ut_logo.png" alt="" />
+              <img
+                className={styles.logo}
+                src="src/assets/ut_logo.png"
+                alt=""
+              />
               <h2>Update Templates</h2>
             </div>
             <h3>Create and store templates for frequently made updates</h3>
